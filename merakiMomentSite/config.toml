@@ -15,19 +15,19 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
-author = "Themefisher"
+address = ""
+author = "Sindre Moldeklev"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = ""
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = ""
 description = "This is meta description"
-email = "exmaple@ymail.com"
+email = ""
 google_analitycs_id = "Your ID"
-home = "Home"
+home = "Hjem"
 layout = "1"
 logo = "images/logo.png"
-mobile = "+90 000 333 22"
+mobile = ""
 preloader = true
 search = true
 [params.instafeed]
@@ -62,15 +62,6 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-[[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
-[[params.social]]
-URL = "#"
-icon = "ti-linkedin"
 [[params.social]]
 URL = "#"
 icon = "ti-github"
