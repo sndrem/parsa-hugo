@@ -2,6 +2,7 @@
 categories = []
 date = 2013-05-14T22:00:00Z
 description = "Tur til Amsterdam med Amund og mamma i mai 2013"
+draft = true
 image = ""
 tags = ["Europa", " ferie"]
 title = "Amsterdam, mai 2013"
