@@ -4,7 +4,6 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Meraki Moments"
-cloudinary_url = "https://res.cloudinary.com/meraki-images/image/upload"
 [[menu.main]]
 URL = "about"
 name = "Om"
@@ -16,6 +15,7 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
+cloudinary_url = "https://res.cloudinary.com/meraki-images/image/upload"
 address = ""
 author = "Sindre Moldeklev"
 author_image = "images/banner-img.png"
