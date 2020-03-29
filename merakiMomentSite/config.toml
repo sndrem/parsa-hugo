@@ -6,7 +6,7 @@ theme = "parsa-hugo"
 title = "Meraki Moments"
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Om"
 weight = 2
 [[menu.main]]
 URL = "contact"
