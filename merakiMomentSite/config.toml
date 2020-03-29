@@ -4,6 +4,7 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Meraki Moments"
+cloudinary_url = "https://res.cloudinary.com/meraki-images/image/upload"
 [[menu.main]]
 URL = "about"
 name = "Om"
