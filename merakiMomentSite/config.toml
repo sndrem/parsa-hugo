@@ -1,4 +1,4 @@
-baseURL = "https://meraki-moments.netlify.com/"
+baseURL = "https://meraki-moments.no"
 languageCode = "no-nb"
 paginate = 6
 summaryLength = "10"
@@ -15,11 +15,11 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-cloudinary_url = "https://res.cloudinary.com/meraki-images/image/upload"
 address = ""
 author = "Sindre Moldeklev"
 author_image = "images/banner-img.png"
 bio = ""
+cloudinary_url = "https://res.cloudinary.com/meraki-images/image/upload"
 contact_form_action = "#"
 copyright = ""
 description = "This is meta description"
