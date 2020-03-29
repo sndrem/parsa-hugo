@@ -31,7 +31,7 @@ mobile = ""
 preloader = true
 search = true
 [params.instafeed]
-access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+access_token = "IGQVJYS0VGTFNqVFZAkb3otdGJ1YnBUOGxzbWpzeV9aMmlaX2JaRjdWWjE1MjVOTHBDcW1BbGZA6cHhpNTI3MmdYdUIzeC0ycGtBNHI5UkZAMV2ptTVBORDlEZAUZAQQ0JpMG5hTmJmSjJvellPcVlCTzY4WgZDZD"
 enable = false
 user_id = "4044026246"
 [[params.plugins.css]]
