@@ -1,4 +1,4 @@
-baseURL = "http://meraki-moments.netlify.com/"
+baseURL = "https://meraki-moments.netlify.com/"
 languageCode = "no-nb"
 paginate = 6
 summaryLength = "10"
