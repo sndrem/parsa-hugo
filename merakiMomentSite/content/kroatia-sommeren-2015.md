@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Utenlands"]
 date = 2015-07-24T22:00:00Z
 description = "Sommerferie 2015 til Kroatia med Lejla og David"
 image = "/v1585502945/meraki/Kroatia2015-48_mfajbt.jpg"
