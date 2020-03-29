@@ -10,7 +10,7 @@ name = "Om"
 weight = 2
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Kontakt"
 weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
