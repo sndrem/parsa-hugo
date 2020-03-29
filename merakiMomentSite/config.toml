@@ -1,6 +1,6 @@
 # default config
-baseURL = "https://examplesite.org"
-languageCode = "en-us"
+baseURL = "https://meraki-moments.no"
+languageCode = "no-nb"
 title = "Parsa Hugo | Personal Blog Template"
 theme = "parsa-hugo"
 summaryLength = "10"
