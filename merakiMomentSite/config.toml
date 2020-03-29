@@ -1,17 +1,17 @@
-baseURL = "https://meraki-moments.no"
+baseURL = "http://meraki-moments.netlify.com/"
 languageCode = "no-nb"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 2
-[[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
