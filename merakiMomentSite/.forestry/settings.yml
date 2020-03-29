@@ -13,12 +13,12 @@ sections:
   - post
 - type: directory
   path: merakiMomentSite/content/about
-  label: About
+  label: Om
   create: none
   match: "*"
 - type: directory
   path: merakiMomentSite/content/contact
-  label: Contact
+  label: Kontakt
   create: none
   match: "*"
 - type: directory
