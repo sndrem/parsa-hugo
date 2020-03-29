@@ -1,4 +1,4 @@
-baseURL = "https://meraki-moments.no"
+baseURL = "https://www.meraki-moments.no"
 languageCode = "no-nb"
 paginate = 6
 summaryLength = "10"
