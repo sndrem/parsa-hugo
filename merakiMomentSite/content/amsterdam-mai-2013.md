@@ -1,8 +1,8 @@
 +++
-categories = []
+categories = ["Utenlands"]
 date = 2013-05-14T22:00:00Z
 description = "Tur til Amsterdam med Amund og mamma i mai 2013"
-image = ""
+image = "/v1585498385/meraki/amsterdamiMai-30_ekbu1k.jpg"
 tags = ["Europa", " ferie"]
 title = "Amsterdam, mai 2013"
 type = "post"
