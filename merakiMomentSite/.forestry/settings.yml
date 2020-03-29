@@ -27,10 +27,10 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: meraki
-public_path: https://res.cloudinary.com/meraki-images/image/upload
+upload_dir: ''
+public_path: ''
 front_matter_path: ''
-use_front_matter_path: true
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
