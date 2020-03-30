@@ -2,7 +2,7 @@
 categories = ["Norge"]
 date = 2019-07-14T22:00:00Z
 description = "Mandag 15. juli til fredag 19. juli dro Synnøve, Helge, Terje og jeg på seilbåttur nedover Oslofjorden mot Oscarsborg."
-image = ""
+image = "/v1585594950/meraki/seilbatferie_drobak-53_z42ufn.jpg"
 tags = ["ferie"]
 title = "Seilbåtferie til Oscarsborg sommeren 2019"
 type = "post"
