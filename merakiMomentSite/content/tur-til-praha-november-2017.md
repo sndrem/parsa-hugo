@@ -2,7 +2,7 @@
 categories = ["Utenlands"]
 date = 2017-11-09T23:00:00Z
 description = "November 2017 dro Synnøve og jeg til Praha for å feire bursdagen hennes."
-image = ""
+image = "/v1585595019/meraki/praha_2017-50_fvzf7x.jpg"
 tags = ["ferie"]
 title = "Tur til Praha november 2017"
 type = "post"
