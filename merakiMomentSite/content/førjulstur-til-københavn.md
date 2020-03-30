@@ -2,7 +2,7 @@
 categories = ["Utenlands"]
 date = 2019-11-29T23:00:00Z
 description = "I slutten av november dro Synnøve, Vilde, William og jeg til København"
-image = ""
+image = "/v1585593579/meraki/49145690363_34674d10d1_o_obrpvn.jpg"
 tags = ["ferie"]
 title = "Førjulstur til København"
 type = "post"
