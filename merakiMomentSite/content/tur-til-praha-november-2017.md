@@ -5,7 +5,7 @@ description = "November 2017 dro Synnøve og jeg til Praha for å feire bursdage
 image = ""
 tags = ["ferie"]
 title = "Tur til Praha november 2017"
-type = "featured"
+type = "post"
 
 +++
 Fredag 10. november dro Synnøve og jeg til Praha for en liten ferie, og for å feire bursdagen hennes. Vi fløy tidlig fra Flesland ved ankomst i Praha ble vi hentet av en sjåfør fra hotellet. Vi dro direkte til hotellet, men kunne ikke sjekke inn før senere på dagen. Dermed dro vi over gaten til et stort kjøpesenter for å spise.
