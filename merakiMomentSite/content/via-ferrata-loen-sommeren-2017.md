@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Norge"]
 date = 2017-07-06T22:00:00Z
 description = "Tredagers tur til Loen og Stryn med Helge fra 5. til 7. juli 2017. Vi teltet langs Loenvatnet, gikk Via Ferrata og campet ved Oldevatnet."
 image = "/v1585587286/meraki/35623336422_ae75d5cc13_o_mcpneq.jpg"
