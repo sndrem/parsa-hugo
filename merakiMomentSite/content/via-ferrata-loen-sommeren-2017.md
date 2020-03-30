@@ -5,7 +5,7 @@ description = "Tredagers tur til Loen og Stryn med Helge fra 5. til 7. juli 2017
 image = "/v1585587286/meraki/35623336422_ae75d5cc13_o_mcpneq.jpg"
 tags = ["ferie"]
 title = "Via Ferrata Loen, sommeren 2017"
-type = "featured"
+type = "post"
 
 +++
 Fra onsdag 5. til fredag 7. juli 2017 dro Helge og jeg med farmor og farfar sin bil til Loen for å gå Via Ferrata.
