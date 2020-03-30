@@ -5,7 +5,7 @@ description = "To ukers sommerferie på Rhodos i 2017."
 image = "/v1585587661/meraki/36280789302_c1506cdebe_o_nn2n3m.jpg"
 tags = ["ferie"]
 title = "Sommerferie på Rhodos 2017"
-type = "featured"
+type = "post"
 
 +++
 Fra 24. juli til 7. august 2017 dro Synnøve og jeg tilbake til Rhodos og Esperos Village. Plassen og hotellet vi bodde på i fjor rundt samme tid. Vi valgte å dra tilbake fordi vi likte oss såpass godt på øyen. Lange later dager på stranden, god mat om kveldene og behagelige temperaturer. Siden i fjor har hotellet fått en oppgradering på rommene. De har nå flere rom med eget lite basseng rett utenfor, samt to forskjellige frokoster å velge i. Vi gikk for rom uten basseng, men bedre frokost. Et godt valg syns vi. Rommet vi fikk i år var helt nyoppusset og bare 2 måneder gammelt.
