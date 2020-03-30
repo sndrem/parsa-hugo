@@ -5,7 +5,7 @@ description = "Flyging med Amund og Helge lørdag 17. mars 2018. Bursdagsgave fr
 image = "/v1585588030/meraki/39046524950_9c27e81022_o_vcu7mo.jpg"
 tags = ["fritid"]
 title = "Flyging med Amund og Helge mars 2018"
-type = "featured"
+type = "post"
 
 +++
 Til min 25. bursdag fikk jeg flytur i gave av pappa. Lørdag 17. mars kl. 07.00 var Amund, Helge og jeg på plass på Flesland, klare for en flytur over Bergen. Vi skulle fly med Odin Sætre som etter en kjapp registrering av navn (så de visste hva vi het ved en eventuell styrt) plasserte oss i flyet, forklarte på rekordtid hvordan et fly flyr, ga meg rattet, ba meg takse til rullebanen og dermed gi full pinne til vi var i luften.
