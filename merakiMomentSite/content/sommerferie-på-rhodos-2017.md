@@ -2,7 +2,7 @@
 categories = ["Utenlands"]
 date = 2017-07-23T22:00:00Z
 description = "To ukers sommerferie på Rhodos i 2017."
-image = ""
+image = "/v1585587661/meraki/36280789302_c1506cdebe_o_nn2n3m.jpg"
 tags = ["ferie"]
 title = "Sommerferie på Rhodos 2017"
 type = "featured"
