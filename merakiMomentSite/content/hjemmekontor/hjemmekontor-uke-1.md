@@ -2,10 +2,9 @@
 categories = ["Hjemmekontor"]
 date = 2020-03-21T23:00:00Z
 description = "Hjemmekontor pga. Corona-pandemi - uke 1"
-image = "/IMG_1471_c5vgy1.heic"
+image = "/v1585685898/meraki/hjemmekontor_uke1_qffpxy.jpg"
 tags = ["hjemmekontor", " virus", " pandemi", " corona"]
 title = "Hjemmekontor - Uke 1"
-type = "hjemmekontor"
 
 +++
 Dette var første uken med hjemmekontor for både Synnøve og meg. De fleste arbeidsplasser i Norge har blitt bedt om å la sine ansatte jobbe hjemmefra, og på kort tid gikk vi fra en normal hverdag til en ganske unormal hverdag, med stengte skoler og barnehager over hele landet.
