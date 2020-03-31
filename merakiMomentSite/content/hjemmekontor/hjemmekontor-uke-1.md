@@ -2,7 +2,7 @@
 categories = ["Hjemmekontor"]
 date = 2020-03-21T23:00:00Z
 description = "Hjemmekontor pga. Corona-pandemi - uke 1"
-image = ""
+image = "/IMG_1471_c5vgy1.heic"
 tags = ["hjemmekontor", " virus", " pandemi", " corona"]
 title = "Hjemmekontor - Uke 1"
 type = "hjemmekontor"
