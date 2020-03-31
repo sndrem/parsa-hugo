@@ -5,7 +5,7 @@ description = "Hjemmekontor pga. Corona-pandemi - uke 1"
 image = ""
 tags = ["hjemmekontor", " virus", " pandemi", " corona"]
 title = "Hjemmekontor - Uke 1"
-type = "post"
+type = "hjemmekontor"
 
 +++
 Dette var første uken med hjemmekontor for både Synnøve og meg. De fleste arbeidsplasser i Norge har blitt bedt om å la sine ansatte jobbe hjemmefra, og på kort tid gikk vi fra en normal hverdag til en ganske unormal hverdag, med stengte skoler og barnehager over hele landet.

@@ -25,7 +25,7 @@ fields:
   name: type
   label: type
   default: post
-  description: 'type: post or featured'
+  description: 'type: post, featured or hjemmekontor'
 pages:
 - merakiMomentSite/content/amsterdam-mai-2013.md
 - merakiMomentSite/content/en-nydelig-kveld-med-bsi-seiling.md
