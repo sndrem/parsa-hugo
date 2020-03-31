@@ -20,6 +20,8 @@ Fredagen var vi innom [Torvhallerne](https://torvehallernekbh.dk/), en mathall s
 
 Senere på dagen slo vi oss ned på [Taphouse](https://taphouse.dk/) og slappet av, før vi dro til Tivoli.
 
+![](https://res.cloudinary.com/meraki-images/image/upload/v1585682013/meraki/k%C3%B8benhavn-21_k6dhnx.jpg)
+
 På tivoliet var det pyntet til jul med masse fine lys, boder som solgte gløgg, bakevarer, gaver og mye mer.
 
 ![](https://res.cloudinary.com/meraki-images/image/upload/v1585681866/meraki/k%C3%B8benhavn-23_juatcn.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/v1585681872/meraki/k%C3%B8benhavn-25_vql3ny.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/v1585681881/meraki/k%C3%B8benhavn-27_zo04np.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/v1585681894/meraki/k%C3%B8benhavn-33_vgf10w.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/v1585681902/meraki/k%C3%B8benhavn-37_hcmu4g.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/v1585681908/meraki/k%C3%B8benhavn-38_skuwas.jpg)
