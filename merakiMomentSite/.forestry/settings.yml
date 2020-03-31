@@ -14,7 +14,7 @@ sections:
 - type: directory
   path: merakiMomentSite/content/hjemmekontor
   label: Hjemmekontor
-  create: all
+  create: documents
   match: "*"
 - type: directory
   path: merakiMomentSite/content/about
