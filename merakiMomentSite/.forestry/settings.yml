@@ -12,10 +12,10 @@ sections:
   templates:
   - post
 - type: directory
-  path: merakiMomentSite/content/hjemmekontor/*
+  path: merakiMomentSite/content/hjemmekontor
   label: Hjemmekontor
   create: all
-  match: "**/*"
+  match: "*"
 - type: directory
   path: merakiMomentSite/content/about
   label: Om
