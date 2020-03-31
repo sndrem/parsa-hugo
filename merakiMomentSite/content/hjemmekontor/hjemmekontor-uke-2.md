@@ -5,7 +5,6 @@ description = "Uke 2 med hjemmekontor"
 image = "/v1585686063/meraki/IMG_2216_g7fg5k.jpg"
 tags = ["virus", "pandemi", "corona", "hjemmekontor"]
 title = "Hjemmekontor - Uke 2"
-type = "post"
 
 +++
 Uke 2 med hjemmekontor har gått overraskende bra. Med lysere morninger og gode rutiner med blant annet en luftetur før jobb eller en halvtimes yoga med Synnøve kommer vi begge godt i gang med dagen.
