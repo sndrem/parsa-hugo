@@ -1,10 +1,11 @@
 +++
-categories = []
+categories = ["Hjemmekontor"]
 date = 2020-04-04T22:00:00Z
 description = "Hjemmekontor uke 3 - Vi lager surdeigsstarter og begynner med oppussing"
 image = "/v1586083740/meraki/Bilde_01.04.2020_15_33_58_onvhue.jpg"
 tags = ["corona", " hjemmekontor", " pandemi", " virus"]
 title = "Hjemmekontor - Uke 3"
+type = ""
 
 +++
 Tredje uken med hjemmekontor har flydd avgårde. På jobben går det i det samme for både Synnøve og meg. Synnøve må svare småbedrifter på hvorfor de fortsatt holder oppe som vanlig, mens jeg fortsetter på omskriving av en eldre kodebase hos SVV. 
