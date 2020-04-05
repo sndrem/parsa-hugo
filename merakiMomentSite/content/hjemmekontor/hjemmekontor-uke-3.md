@@ -14,13 +14,13 @@ Etter jobb har vi denne uken grillet flere ganger på terrassen, og jeg har ende
 
 På fredagen fikk jeg tilsendt en liten påskeoppmerksomhet fra Bekk, med Kvikk Lunsj, blomsterfrø og Yatzy
 
-![](https://res.cloudinary.com/meraki-images/image/upload/v1586084256/meraki/Bilde_03.04.2020_15_42_25_gj8fec.jpg)
+![](https://res.cloudinary.com/meraki-images/image/upload/w_650,q_auto,f_auto/v1586084256/meraki/Bilde_03.04.2020_15_42_25_gj8fec.jpg)
 
 Og senere på dagen kom det en pakke fra Clas Ohlson med konserveringsglass til mitt surdeigsstarter-prosjekt og bildeklemmer til Synnøve sin fotovegg
 
-![](https://res.cloudinary.com/meraki-images/image/upload/v1586084301/meraki/IMG_1499_mlj3ga.jpg)
+![](https://res.cloudinary.com/meraki-images/image/upload/w_650,q_auto,f_auto/v1586084301/meraki/IMG_1499_mlj3ga.jpg)
 
-![](https://res.cloudinary.com/meraki-images/image/upload/v1586084192/meraki/DA91E80A-82EB-49C0-A140-87B4C989496B_p9neqf.jpg)
+![](https://res.cloudinary.com/meraki-images/image/upload/w_650,q_auto,f_auto/v1586084192/meraki/DA91E80A-82EB-49C0-A140-87B4C989496B_p9neqf.jpg)
 
 Vi får se om det blir ferskt surdeigsbrød til påskefrokosten i neste uke.
 
