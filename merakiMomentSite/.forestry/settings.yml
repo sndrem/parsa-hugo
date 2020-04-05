@@ -33,7 +33,7 @@ sections:
   match: "*.toml"
   new_doc_ext: toml
 upload_dir: meraki
-public_path: https://res.cloudinary.com/meraki-images/image/upload
+public_path: https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
