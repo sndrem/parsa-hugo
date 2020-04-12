@@ -4,7 +4,7 @@ date = 2020-04-11T22:00:00Z
 description = "Det nærmer seg påskestemning på hjemmekontoret"
 image = "/v1586717206/meraki/hjemmekontor_uke5_p1jiyz.jpg"
 tags = [" corona", "pandemi", "virus", "hjemmekontor"]
-title = "Hjemmekontor - Uke 5"
+title = "Hjemmekontor - Uke 4"
 
 +++
 Denne uken var en kort uke på hjemmekontoret. Med bare tre dager på jobb før påske ble det ganske rolig.
