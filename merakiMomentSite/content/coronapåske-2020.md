@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Norge"]
 date = 2020-04-12T22:00:00Z
 description = "Påsken 2020 var vi hjemme i Oslo pga. coronapandemien"
 image = "/v1586776913/meraki/IMG_0070_vwdcjb.jpg"
