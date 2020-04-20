@@ -20,6 +20,7 @@ Mot slutten av uken var vi på en lang skogstur i marka. Vi startet med pannekak
 Pannekakesteking ved Solbergvann
 
 ![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1587371744/meraki/IMG_0103_ziqbpk.jpg)
+
 På toppen av Haukåsen
 
 ![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1587371752/meraki/IMG_0106_hdimaj.jpg)
@@ -28,6 +29,8 @@ En velfortjent bolle ved Mariholtet
 
 ![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1587371769/meraki/IMG_0107_yh4mju.jpg)
 
-![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1587371777/meraki/IMG_0109_yhlext.jpg)Våren er i anmarsj for fullt nå.
+![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1587371777/meraki/IMG_0109_yhlext.jpg)
 
-Neste uke blir en ny uke på hjemmekontor. Det er meldt knallvær så vi kan bare håpe på en ny fin uke. 
+Våren er i anmarsj for fullt nå.
+
+Neste uke blir en ny uke på hjemmekontor. Det er meldt knallvær så vi kan bare håpe på en ny fin uke.
