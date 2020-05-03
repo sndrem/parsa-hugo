@@ -13,7 +13,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 address = ""
 author = "Sindre Moldeklev"
-author_image = "images/banner-img.png"
+author_image = "https://res.cloudinary.com/meraki-images/image/upload/v1588532121/meraki/author_e8wtnp.jpg"
 bio = ""
 cloudinary_url = "https://res.cloudinary.com/meraki-images/image/upload"
 contact_form_action = "#"
@@ -25,7 +25,7 @@ home = "Hjem"
 layout = "1"
 logo = ""
 mobile = ""
-preloader = true
+preloader = false
 search = true
 [params.instafeed]
 access_token = "IGQVJYS0VGTFNqVFZAkb3otdGJ1YnBUOGxzbWpzeV9aMmlaX2JaRjdWWjE1MjVOTHBDcW1BbGZA6cHhpNTI3MmdYdUIzeC0ycGtBNHI5UkZAMV2ptTVBORDlEZAUZAQQ0JpMG5hTmJmSjJvellPcVlCTzY4WgZDZD"
