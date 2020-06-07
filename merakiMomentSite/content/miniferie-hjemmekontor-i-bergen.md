@@ -10,8 +10,6 @@ type = "post"
 +++
 Lørdag 16. mai dro Synnøve og jeg over fjellet til Bergen for å feire 17. mai med familien. Vi hadde leid oss en leiebil fra Hertz som vi fylte opp med ekstra skjermer, alle jobbtingene våre, samt en hel del ekstra. Det var meldt ganske dårlig vær på de fleste fjellovergangene 16. mai, men heldigvis var Hemsedalsfjellet åpent. Det var også veldig lite biler på veiene denne dagen, så turen over gikk veldig fint.
 
-Lørdag 16. mai dro Synnøve og jeg over fjellet til Bergen for å feire 17. mai med familien. Vi hadde leid oss en leiebil fra Hertz som vi fylte opp med ekstra skjermer, alle jobbtingene våre, samt en hel del ekstra. Det var meldt ganske dårlig vær på de fleste fjellovergangene 16. mai, men heldigvis var Hemsedalsfjellet åpent. Det var også veldig lite biler på veiene denne dagen, så turen over gikk veldig fint.
-
 ![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591519524/meraki/IMG_0231_h93vww.jpg)
 
 Årets 17. mai ble ikke som en vanlig 17. mai i Bergen. På grunn av den pågående Corona-pandemien, feiret vi bare med familien hjemme på Ørnefjellet, samt en liten svipptur ut til Synnøve sin mor på Sotra. 
