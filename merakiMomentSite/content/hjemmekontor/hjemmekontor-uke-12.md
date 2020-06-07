@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["hjemmekontor"]
 date = 2020-06-06T22:00:00Z
 description = "Tilbake på hjemmekontor etter to uker i Bergen"
 image = "/v1591522818/meraki/IMG_2383_abeeck.jpg"
