@@ -2,7 +2,6 @@
 categories = ["Norge"]
 date = 2020-05-31T22:00:00Z
 description = "Synnøve og jeg tok hjemmekontoret med oss til Bergen for å feire 17. mai"
-draft = true
 image = "/v1591518712/meraki/IMG_0359_xeaoxz.jpg"
 tags = ["hjemmekontor", " bergen", " ferie", "corona"]
 title = "Miniferie/hjemmekontor i Bergen"
@@ -15,7 +14,11 @@ Lørdag 16. mai dro Synnøve og jeg over fjellet til Bergen for å feire 17. mai
 
 Synnøve sin mor visste ikke at vi kom over til Bergen, så på morningen den 17. mai kjørte vi ut og møtte Helge og Gina, før vi kjørte i flaggparade inn til huset og overrasket henne. Det ble en stor suksess.
 
-![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591519957/meraki/61139835609__38E0D9F7-E95D-433A-A254-F67FB6A1199C_y7hu3q.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591519972/meraki/IMG_1905_qnohxn.jpg)Etter 17. mai var det vanlig arbeidsuke hjemme på Ørnefjellet. Jeg kunne sitte i stuen, mens Synnøve fikk kontoret. Det var et deilig avbrekk.
+![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591519957/meraki/61139835609__38E0D9F7-E95D-433A-A254-F67FB6A1199C_y7hu3q.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591519972/meraki/IMG_1905_qnohxn.jpg)
+
+![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591521500/meraki/IMG_0254_qlsrnq.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591521509/meraki/IMG_1936_nymnno.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591521517/meraki/IMG_1907_wl9xld.jpg)
+
+Etter 17. mai var det vanlig arbeidsuke hjemme på Ørnefjellet. Jeg kunne sitte i stuen, mens Synnøve fikk kontoret. Det var et deilig avbrekk.
 
 Gjennom uken fikk jeg golfet litt og vi var ute på Sotra og hilste på den nye valpen til moren til Synnøve. 
 
@@ -29,4 +32,12 @@ Gjennom uken fikk jeg golfet litt og vi var ute på Sotra og hilste på den nye 
 
 Det gikk relativt bra, bortsett fra noen feilkast her og der...
 
-![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591521141/meraki/IMG_0338_erqn6f.jpg)
+![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591521141/meraki/IMG_0338_erqn6f.jpg)Senere i uken ble det hektisk aktivitet i Amund sin fuglekasse, med 6 klekkede egg og en mor og far som måtte på jakt etter mat hele tiden.
+
+![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591521471/meraki/DSC_7729_shyuz0.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591521479/meraki/DSC_7812_vt0etz.jpg)Siste helgen dro Synnøve til frisøren på lørdagen, mens Helge, Gina og jeg dro for en ny runde med frisbee-golf.
+
+![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591521584/meraki/IMG_0367_k8bqyf.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591521594/meraki/IMG_0368_lg5thq.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591521604/meraki/IMG_0373_umsn4s.jpg)
+
+Søndagen spilte Amund, Håkon, pappa og jeg en 18. hulls golfrunde på Sotra, mens Synnøve var ute hos sin mor, og mandagen kjørte vi hjemover.
+
+Nå blir det jobbing i en liten måned før vi begynner på sommerferien.
