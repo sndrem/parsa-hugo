@@ -10,6 +10,8 @@ type = "post"
 +++
 Lørdag 16. mai dro Synnøve og jeg over fjellet til Bergen for å feire 17. mai med familien. Vi hadde leid oss en leiebil fra Hertz som vi fylte opp med ekstra skjermer, alle jobbtingene våre, samt en hel del ekstra. Det var meldt ganske dårlig vær på de fleste fjellovergangene 16. mai, men heldigvis var Hemsedalsfjellet åpent. Det var også veldig lite biler på veiene denne dagen, så turen over gikk veldig fint.
 
+Lørdag 16. mai dro Synnøve og jeg over fjellet til Bergen for å feire 17. mai med familien. Vi hadde leid oss en leiebil fra Hertz som vi fylte opp med ekstra skjermer, alle jobbtingene våre, samt en hel del ekstra. Det var meldt ganske dårlig vær på de fleste fjellovergangene 16. mai, men heldigvis var Hemsedalsfjellet åpent. Det var også veldig lite biler på veiene denne dagen, så turen over gikk veldig fint.
+
 ![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591519524/meraki/IMG_0231_h93vww.jpg)
 
 Årets 17. mai ble ikke som en vanlig 17. mai i Bergen. På grunn av den pågående Corona-pandemien, feiret vi bare med familien hjemme på Ørnefjellet, samt en liten svipptur ut til Synnøve sin mor på Sotra. 
@@ -22,9 +24,13 @@ Synnøve sin mor visste ikke at vi kom over til Bergen, så på morningen den 17
 
 Etter 17. mai var det vanlig arbeidsuke hjemme på Ørnefjellet. Jeg kunne sitte i stuen, mens Synnøve fikk kontoret. Det var et deilig avbrekk.
 
+Gjennom uken fikk jeg golfet litt og vi var ute på Sotra og hilste på den nye valpen til moren til Synnøve.
+
 Gjennom uken fikk jeg golfet litt og vi var ute på Sotra og hilste på den nye valpen til moren til Synnøve. 
 
-![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591520520/meraki/IMG_0246_avfydq.jpg)Etter endt arbeidsuke dro Amund, Helge, mamma, Jon og jeg til Haugsdalshorgi ved Bontveit. En fin tur, som ofte blir referert til som "Mini-Besseggen". En grei tur for Helge og meg som skal gå den ekte Besseggen senere i sommer. Turen gikk gjennom relativt våt myr lenge, før det bar strake veien oppover. På første "topp" lå det fortsatt en meter snø og vi gikk over hele eggen i snø. Turen tok ca. 5 timer inkludert et lite stopp for å spise litt niste.
+![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591520520/meraki/IMG_0246_avfydq.jpg)
+
+Etter endt arbeidsuke dro Amund, Helge, mamma, Jon og jeg til Haugsdalshorgi ved Bontveit. En fin tur, som ofte blir referert til som "Mini-Besseggen". En grei tur for Helge og meg som skal gå den ekte Besseggen senere i sommer. Turen gikk gjennom relativt våt myr lenge, før det bar strake veien oppover. På første "topp" lå det fortsatt en meter snø og vi gikk over hele eggen i snø. Turen tok ca. 5 timer inkludert et lite stopp for å spise litt niste.
 
 ![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591520950/meraki/IMG_0284_j3lkr7.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591520959/meraki/IMG_0289_b0fk8w.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591520969/meraki/IMG_0291_tvc1ww.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591520978/meraki/IMG_0293_isbz5w.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591520986/meraki/IMG_0296_ewaehv.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591520995/meraki/IMG_0302_jyapjb.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591521004/meraki/IMG_0305_bok5cd.jpg)![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1591521013/meraki/IMG_0322_ayhmwq.jpg)
 
