@@ -2,7 +2,6 @@
 categories = []
 date = 2020-07-27T22:00:00Z
 description = "I år ble det ingen utenlandstur til sommeren. Istedenfor hadde vi noen fine ferieuker i Bergen, Hardanger og på Besseggen."
-draft = true
 image = "/v1595952999/meraki/IMG_0560_r3bcuj.jpg"
 tags = ["ferie", " corona", "norgesferie"]
 title = "Sommerferie juli 2020"
@@ -33,7 +32,13 @@ Siste dagen i Oslo før vi satte snuten mot Bergen hadde vi Terje på middagsbes
 
 Nå hadde Synnøve også begynt på sin ferie, og vi kjørte derfor til Bergen, Helge, Synnøve og jeg. Her hadde vi få konkrete planer for ferien, annet enn en fruktsafari med RIB-båt og en natt på Hotell Sandven i Norheimssund.
 
-I Bergen startet vi ferien med en tur til [Cornelius](https://corneliusrestaurant.no/) sammen med Gina og Helge. Vi ble kjørt ut med båt fra Dreggekaien for å spise en deilig fem-retters, før vi ble fraktet tilbake til Bergen senere på kvelden. Vi spiste deilig ørret-tartar, steinbit, lysing, krabbemousse og en deilig jordbær og lime-dessert. Vel verdt et besøk.
+I Bergen ble det mye tid til valpekos med Paco mens vi bodde på Ørnefjellet.  
+  
+![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1595956218/meraki/IMG_1513_c4f469.jpg)
+
+Ü![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1595956229/meraki/IMG_1542_usiltx.jpg)  
+  
+En av de første kevldene i Bergen tok i en tur til [Cornelius](https://corneliusrestaurant.no/) sammen med Gina og Helge. Vi ble kjørt ut med båt fra Dreggekaien for å spise en deilig fem-retters, før vi ble fraktet tilbake til Bergen senere på kvelden. Vi spiste deilig ørret-tartar, steinbit, lysing, krabbemousse og en deilig jordbær og lime-dessert. Vel verdt et besøk.
 
 ![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1595955774/meraki/IMG_1052_hcwjy3.jpg)
 
