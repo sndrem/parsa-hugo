@@ -36,9 +36,10 @@ I Bergen ble det mye tid til valpekos med Paco mens vi bodde på Ørnefjellet.
   
 ![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1595956218/meraki/IMG_1513_c4f469.jpg)
 
-Ü![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1595956229/meraki/IMG_1542_usiltx.jpg)  
   
-En av de første kevldene i Bergen tok i en tur til [Cornelius](https://corneliusrestaurant.no/) sammen med Gina og Helge. Vi ble kjørt ut med båt fra Dreggekaien for å spise en deilig fem-retters, før vi ble fraktet tilbake til Bergen senere på kvelden. Vi spiste deilig ørret-tartar, steinbit, lysing, krabbemousse og en deilig jordbær og lime-dessert. Vel verdt et besøk.
+![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1595956229/meraki/IMG_1542_usiltx.jpg)  
+  
+En av de første kveldene i Bergen tok i en tur til [Cornelius](https://corneliusrestaurant.no/) sammen med Gina og Helge. Vi ble kjørt ut med båt fra Dreggekaien for å spise en deilig fem-retters, før vi ble fraktet tilbake til Bergen senere på kvelden. Vi spiste deilig ørret-tartar, steinbit, lysing, krabbemousse og en deilig jordbær og lime-dessert. Vel verdt et besøk.
 
 ![](https://res.cloudinary.com/meraki-images/image/upload/w_650,f_auto,q_auto/v1595955774/meraki/IMG_1052_hcwjy3.jpg)
 
