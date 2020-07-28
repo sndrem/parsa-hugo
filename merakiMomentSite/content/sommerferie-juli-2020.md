@@ -29,4 +29,8 @@ Så dro mamma og Jon til Golsfjellet, og med et plutselig knallvær tok Synnøve
 
 Etter natten i telt dro vi hjem, spiste litt frokost, pakket bilen og kjørte mot hytten i Hardanger. Her var allerede pappa og Amund kommet inn kvelden før med Ammon, seilskøyten som Pappa holder på med på siden. 
 
-I Hardanger hadde vi noen fine dager med varierende vær. Synnøve og jeg tok oss en tur til Bondhusvatnet og Rosendal en dag og ellers slappet vi bare av på hytten før vi skulle flytte oss en liten time sørover mot Øystese og Nordheimsund. Her hadde Synnøve booket tur med RIB-båt i Hardangerfjorden med innlagt besøk på Steinstø fruktgard. Dette var en veldig kul opplevelse 
+I Hardanger hadde vi noen fine dager med varierende vær. Synnøve og jeg tok oss en tur til Bondhusvatnet og Rosendal en dag og ellers slappet vi bare av på hytten før vi skulle flytte oss en liten time sørover mot Øystese og Nordheimsund. Her hadde Synnøve booket tur med RIB-båt i Hardangerfjorden med innlagt besøk på Steinstø fruktgard. Dette var en veldig kul opplevelse som innebar både høy fart med RIBen, interessant historie fra området vi kjørte i og en spennende tur på fruktgården, inkludert deilig sider og smaksprøver.
+
+Fra Nordheimsund dro vi tilbake til Bergen for de siste dagene av ferien. Her hadde vi ikke så mye planer. Jeg fikk meg en tur med pappa og Ammon der vi prøvde å heise storseil for første gang, og vi hadde en deilig krabbemiddag med Håkon, Camilla, jon og mamma siste kvelden.
+
+Og plutselig var ferien over og vi tok toget over fjellet tilbake til jobb i Oslo.
