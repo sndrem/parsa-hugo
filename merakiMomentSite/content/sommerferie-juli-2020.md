@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Norge"]
 date = 2020-07-27T22:00:00Z
 description = "I år ble det ingen utenlandstur til sommeren. Istedenfor hadde vi noen fine ferieuker i Bergen, Hardanger og på Besseggen."
 image = "/v1595952999/meraki/IMG_0560_r3bcuj.jpg"
