@@ -28,6 +28,7 @@ fields:
   description: 'type: post, featured or hjemmekontor'
 pages:
 - merakiMomentSite/content/amsterdam-mai-2013.md
+- merakiMomentSite/content/corona-aret-2020.md
 - merakiMomentSite/content/coronapåske-2020.md
 - merakiMomentSite/content/en-nydelig-kveld-med-bsi-seiling.md
 - merakiMomentSite/content/flyging-med-amund-og-helge-mars-2018.md
