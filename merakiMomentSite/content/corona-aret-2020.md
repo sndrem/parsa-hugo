@@ -21,9 +21,15 @@ I februar skulle Alexander og Elverum spille Champions League-kamp mot Kiel i H�
 
 ## Mars
 
-12. mars stengte Norge ned. 
+12\. mars stengte Norge ned. Corona var kommet med charterfly fra diverse snøsport-destinasjoner og regjeringen besluttet en full nedstengning av samfunnet. Både Synnøve og jeg rigget oss opp for det vi trodde skulle bli noen uker med hjemmekontor. Arbeidsgiver kjørte hjem stoler og ekstra skjermer, og på et blunk ble den normale hverdagen snudd på hodet.
+
+Felles lunsj og butikkturer med kollegaer ble byttet ut med Slack, Teams og digitale møter. 
 
 ## April
+
+Påsken ble i år feiret i Oslo. På grunn av en uklar smittesituasjon og en sterk oppfordring om å holde oss hjemme mest mulig bestemte vi oss for å bli i Oslo denne påsken. Synnøve og jeg bestemte at vi skulle pusse opp gjesterommet litt, og vi fikk både fjernet tapet og malt med litt nye friske farger.
+
+Jeg skiftet prosjekt hos Statens vegvesen. Nå skulle jeg bli en del av APV-Arbeidsvarsling. Et prosjekt jeg hadde hørt ymse ting om. Det gikk heldigvis veldig greit å bli en del av arbeidsvarslings-teamet. Med nok av spennende oppgaver å ta tak i fløy ukene avgårde. 
 
 ## Mai
 
