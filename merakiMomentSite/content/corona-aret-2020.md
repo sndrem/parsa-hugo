@@ -33,9 +33,23 @@ Jeg skiftet prosjekt hos Statens vegvesen. Nå skulle jeg bli en del av APV-Arbe
 
 ## Mai
 
+Mai kom som alltid, og nå var det blitt lenge siden vi hadde sett familie. Vi besluttet derfor å leie bil i nesten tre uker, og kjøre over fjellet til Bergen for å feire 17. mai og pinse. Vi pakket bilen til randen med ekstra skjermer, datamaskiner, golfsett og telt og dro vestover.
+
+Kate, Synnøves mor hadde ingen anelse om at vi var kommet til Bergen, og 17. mai kjørte vi parade med flagg og nasjonalsang dundrende fra anlegget inn til henne. Det ble en fin overraskelse.
+
 ## Juni
 
+Nå har det for alvor blitt varmere i luften, og dagene er lange og fine. Vi har kunne returnere til kontoret og smittetallene i Norge har stabilisert seg. Synnøve har kunne returnere til kontoret et par dager i uken. 
+
+Det er godt å endelig kunne komme tilbake på kontoret og se kollegaer. 
+
 ## Juli
+
+Juli og tid for sommerferie. I år ble det norgesferie på grunn av høye smittetall i resten av Europa. Jeg tok toget til Bergen for å hente bilen til farmor og farfar, før Helge og jeg kjørte til Gjendesheim for å gå Besseggen. Det var Helges bursdagsgave fra Synnøve og meg. Vi fikk en veldig fin tur over Besseggen, samt en overnatting på hytten til Kjersti og Jan-Tore i Valdres. 
+
+Etter fjellturen vår var Synnøve klar for å begynne med sin ferie, så vi kjørte til Oslo for å hente henne. Vi ble i Oslo et par dager så Helge fikk tid til å se Terje, og etter et par dager dro vi til Bergen. 
+
+I Bergen ble det golf, deilig mat på Kornelius restaurant, hyttetur med Amund og pappa, og rib-safari i Nordheimssund. 
 
 ## August
 
